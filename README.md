@@ -2,6 +2,8 @@
 This project demonstrates infinite scrolling using the Unsplash API. It dynamically loads and displays images as the user scrolls down the page, creating a seamless browsing experience.
 
 ## Demo
+You can check out a live demo of the project [here](https://khaledelhannat.github.io/infinityScroll/).
+
 ![Screenshot 2023-09-29 152348](https://github.com/khaledelhannat/infinityScroll/assets/76536316/322e834b-88e1-4f7f-913f-31f624df280e)
 
 ## Technologies Used
